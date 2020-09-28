@@ -56,7 +56,7 @@ export default function TopBar() {
     <Wrapper>
       <LogoWrapper>
         <img src={logo} alt="" />
-        {'SERUM'}
+        {/* {'SERUM'} */}
       </LogoWrapper>
       <Menu
         mode="horizontal"
